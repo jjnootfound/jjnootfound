@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧚‍♀️ Studying at Tecnológico de Monterrey<br>💻 FIRST Tech Challenge 21735 & 21827<br>🇲🇦FTC 24950 <br>🤖 FIRST Robotics Competition 4010<br>⭐️ I like making robots
+🧚‍♀️ Studying at Tecnológico de Monterrey<br>💻 FIRST Tech Challenge 21735 & 21827<br>🇲🇦 FTC 24950 <br>🤖 FIRST Robotics Competition 4010<br>⭐️ I like making robots
 
 
 # 💻 
